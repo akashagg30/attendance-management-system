@@ -4,3 +4,5 @@ I used PyQt5 to design the Gui of this application. Data about students and thei
 I used opencv to recognize the face and later this application generates results after fetching data from the database.
 
 This application can show attendance of any subject marked on that day (table of students present/absent on that day) and can also calculate and show overall percentage of attendance of every subject for all the students.
+
+code in : /lib/main.py
